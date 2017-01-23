@@ -18,7 +18,11 @@ topicA
 >>>>>>> topicA
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 topicC
 >>>>>>> topicC
+=======
+topicD
+>>>>>>> topicD
